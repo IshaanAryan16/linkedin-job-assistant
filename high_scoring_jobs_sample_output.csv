@@ -1,0 +1,369 @@
+title,company,company_link,date,date_text,link,description,location,employability_score,score_reason,cover_letter,proposed_edits
+Software Engineer,WP Engine,,2025-05-04,,https://ie.linkedin.com/jobs/view/software-engineer-at-wp-engine-4190667810?position=1&pageNum=0&refId=yWoY0snexOgJGlSao6d%2FCw%3D%3D&trackingId=ZoIrHXsBMheLqjGV2OPe5A%3D%3D,"We engage the most inspired minds to do their best work wherever they work best—powering the freedom to create worldwide.
+
+WP Engine empowers companies and agencies of all sizes to build, power, manage, and optimize their WordPress websites and applications with confidence. Serving 1.5 million customers across 150+ countries, the global technology company provides premium, enterprise-grade solutions, tools, and services, including specialized platforms for WordPress, industry-tailored eCommerce and agency solution suites, and developer-centric tools like Local, Advanced Custom Fields, and more. WP Engine’s innovative technology and industry-leading expertise are why 8% of the web visits a WP Engine-powered site daily. Learn more at wpengine.com.
+
+What's cool about this job?
+
+Our software engineers build systems that automate services at scale. With technologies like custom Kubernetes controllers and cloud functions, we are able to automate the deployment, enhancement, and maintenance of our Kubernetes platform. The team is continuously looking for ways to make our services more scalable, reliable, and resilient; Learning from past decisions and striving to get better every day.
+
+The day to day
+
+
+Building automated, scalable services and systems to power our growing infrastructure
+Collaborating with an agile team that is passionate about new technologies and delivering high quality and timely code
+Working with monitoring and alerting systems to aid engineering and support efforts
+Constantly look for opportunities to automate and optimize
+Work with Kubernetes solutions across various cloud providers such as Azure, AWS, GCP
+Produce quality, testable and maintainable systems with fast feedback loops
+Build and enhance infrastructure for serving WordPress on thousands of servers
+Be customer inspired and work closely with business partners to incrementally deliver positive outcomes through technology
+Develop CI/CD pipelines for pushing code into production
+
+
+Your expertise and passion
+
+
+2+ years software engineering experience.
+Bachelor's degree in Computer Science or related field or equivalent experience.
+Worked in an agile environment and is passionate about SRE principles.
+Proficient in Python or Go programming.
+Expertise working with Kubernetes and containerisation.
+Experience working with Kubernetes orchestration on hosted cloud service like AWS, GCP or Azure.
+Knowledge of infrastructure as code tools such as Terraform.
+Understanding of the common WordPress technology stack is desirable: Linux, Varnish, Apache/Nginx, MySQL, and PHP.
+Has experience (or interest) in: configuration management systems, monitoring systems and computer network technologies.
+
+
+Perks And Benefits
+
+
+Company Stock Options (Every employee is an owner in the company)
+Health Benefits (100% Paid Employee Medical, Dental, and Vision)
+Pension Scheme with a match
+Life Insurance and Income Protection (100% Paid)
+Supplemental Maternity & Paternity Pay
+Employee Assistance Program
+Generous Vacation Time (Who doesn’t like time off)
+One-time €460 Home Office Stipend
+Company Wellness Days and wellness allowance.
+
+
+At WP Engine, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. WP Engine is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.
+
+
+Show more ",Ireland,8.7,"Strong expertise in Kubernetes, cloud environments, and CI/CD pipelines aligns well with WP Engine's requirements.","Cover Letter:
+
+---
+
+Ishaan Aryan  
+Email: ishaanaryan98@gmail.com  
+Mobile: +353 892474037  
+[Date]
+
+Hiring Manager  
+WP Engine  
+
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the Software Engineer position at WP Engine, as advertised. With a Master’s degree in Computer Science from University College Dublin and over three years of impactful experience as a Senior Software Engineer, I am excited about the opportunity to contribute to building scalable services and systems that empower businesses worldwide.
+
+My recent role at Optum Global Advantage allowed me to lead significant projects aligned with your team’s objectives, including optimizing infrastructure to reduce latency by 50% through a hybrid cloud microservice deployment and managing CI/CD pipelines using Jenkins and GitHub Actions. These experiences have honed my skills in creating automated, testable, and maintainable systems essential for enhancing reliability and scalability within an agile environment, akin to the innovative culture at WP Engine.
+
+Additionally, my hands-on experience with Kubernetes orchestration on cloud platforms like AWS and GCP complements your requirement perfectly. Successfully migrating applications from Red Hat OpenShift to GCP Kubernetes further empowered me with a deep understanding of managing services across various cloud providers. My passion for developing CI/CD pipelines and my commitment to continuous improvement resonates with WP Engine’s vision of producing high-quality and resilient systems. 
+
+I am particularly drawn to WP Engine's ethos of collaboration and the chance to work with new technologies to solve real-world problems. I believe my proactive approach to automation and optimization will contribute positively to your strategic goals, especially in delivering exceptional outcomes through technology for your customers.
+
+I am keen on the opportunity to discuss how my background, skills, and enthusiasms align with the objectives of WP Engine. Thank you for considering my application. I look forward to the possibility of contributing to your team and am happy to provide any further information required.
+
+Warm regards,
+
+Ishaan Aryan  
+[LinkedIn Profile](http://www.linkedin.com/in/ishaan-aryan)
+
+---  
+
+This cover letter integrates key elements from both your CV and the job description to demonstrate a strong alignment with the position.","Proposed Edits:
+
+1. **Profile Section:**
+   - Revise to emphasize experience with Kubernetes and cloud automation: 
+     - “...with 3+ years as a Senior Software Engineer focused on Kubernetes-based solutions, cloud infrastructure, and service automation.”
+
+2. **Skills Section:**
+   - Add proficiency in Go programming as it's mentioned in the job description.
+   - Highlight WordPress-related technologies: 
+      - “Knowledge of WordPress technologies: Apache/Nginx, MySQL, and PHP.” 
+
+3. **Career Experience (Optum Global Advantage):**
+   - In the Senior Software Engineer role, explicitly mention ""automated services at scale"" and highlight experience in working with multiple cloud providers: 
+     - ""Optimized and automated infrastructure as code across AWS and Azure, enhancing deployment reliability.""
+   - Focus on Agile methodology: 
+     - “Collaborated in an agile environment to deliver production-ready features consistently.”
+
+4. **Career Experience (Lumeus.ai):**
+   - Specify experience with Kubernetes in the context of CI/CD pipelines: 
+     - ""Designed and implemented CI/CD pipelines utilizing Kubernetes for cloud-native applications.""
+
+5. **Achievements Section:**
+   - Add a specific mention of collaboration in Agile teams and any metrics related to efficiency or scalability achieved during projects.
+
+6. **General Formatting:**
+   - Ensure alignment of all descriptions to be concise and directly relate to the job description requirements, focusing on actions that led to measurable impacts.
+
+7. **Education & Training:**
+   - Consider listing relevant certifications that align with Kubernetes, cloud services, or DevOps practices higher up to enhance visibility.
+
+These edits will help highlight relevant experience, align closely with the job description, and make your CV stand out to potential employers at WP Engine."
+Software Engineer,WP Engine,,2025-05-04,,https://ie.linkedin.com/jobs/view/software-engineer-at-wp-engine-4190667809?position=2&pageNum=0&refId=yWoY0snexOgJGlSao6d%2FCw%3D%3D&trackingId=q7ls3nIehqKb5y9k8KNHcA%3D%3D,"We engage the most inspired minds to do their best work wherever they work best—powering the freedom to create worldwide.
+
+WP Engine empowers companies and agencies of all sizes to build, power, manage, and optimize their WordPress websites and applications with confidence. Serving 1.5 million customers across 150+ countries, the global technology company provides premium, enterprise-grade solutions, tools, and services, including specialized platforms for WordPress, industry-tailored eCommerce and agency solution suites, and developer-centric tools like Local, Advanced Custom Fields, and more. WP Engine’s innovative technology and industry-leading expertise are why 8% of the web visits a WP Engine-powered site daily. Learn more at wpengine.com.
+
+What's cool about this job?
+
+Our software engineers build systems that automate services at scale. With technologies like custom Kubernetes controllers and cloud functions, we are able to automate the deployment, enhancement, and maintenance of our Kubernetes platform. The team is continuously looking for ways to make our services more scalable, reliable, and resilient; Learning from past decisions and striving to get better every day.
+
+The day to day
+
+
+Building automated, scalable services and systems to power our growing infrastructure
+Collaborating with an agile team that is passionate about new technologies and delivering high quality and timely code
+Working with monitoring and alerting systems to aid engineering and support efforts
+Constantly look for opportunities to automate and optimize
+Work with Kubernetes solutions across various cloud providers such as Azure, AWS, GCP
+Produce quality, testable and maintainable systems with fast feedback loops
+Build and enhance infrastructure for serving WordPress on thousands of servers
+Be customer inspired and work closely with business partners to incrementally deliver positive outcomes through technology
+Develop CI/CD pipelines for pushing code into production
+
+
+Your expertise and passion
+
+
+2+ years software engineering experience.
+Bachelor's degree in Computer Science or related field or equivalent experience.
+Worked in an agile environment and is passionate about SRE principles.
+Proficient in Python or Go programming.
+Expertise working with Kubernetes and containerisation.
+Experience working with Kubernetes orchestration on hosted cloud service like AWS, GCP or Azure.
+Knowledge of infrastructure as code tools such as Terraform.
+Understanding of the common WordPress technology stack is desirable: Linux, Varnish, Apache/Nginx, MySQL, and PHP.
+Has experience (or interest) in: configuration management systems, monitoring systems and computer network technologies.
+
+
+Perks And Benefits
+
+
+Company Stock Options (Every employee is an owner in the company)
+Health Benefits (100% Paid Employee Medical, Dental, and Vision)
+Pension Scheme with a match
+Life Insurance and Income Protection (100% Paid)
+Supplemental Maternity & Paternity Pay
+Employee Assistance Program
+Generous Vacation Time (Who doesn’t like time off)
+One-time €460 Home Office Stipend
+Company Wellness Days and wellness allowance.
+
+
+At WP Engine, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. WP Engine is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.
+
+
+Show more ",Ireland,9.2,"Strong alignment with required skills in Kubernetes, CI/CD, and Python, along with relevant experience in cloud environments.",,
+Software Engineer,WP Engine,,2025-05-04,,https://ie.linkedin.com/jobs/view/software-engineer-at-wp-engine-4190669350?position=3&pageNum=0&refId=yWoY0snexOgJGlSao6d%2FCw%3D%3D&trackingId=scQVMDSaAujVyKJpA%2F%2FNEg%3D%3D,"We engage the most inspired minds to do their best work wherever they work best—powering the freedom to create worldwide.
+
+WP Engine empowers companies and agencies of all sizes to build, power, manage, and optimize their WordPress websites and applications with confidence. Serving 1.5 million customers across 150+ countries, the global technology company provides premium, enterprise-grade solutions, tools, and services, including specialized platforms for WordPress, industry-tailored eCommerce and agency solution suites, and developer-centric tools like Local, Advanced Custom Fields, and more. WP Engine’s innovative technology and industry-leading expertise are why 8% of the web visits a WP Engine-powered site daily. Learn more at wpengine.com.
+
+What's cool about this job?
+
+Our software engineers build systems that automate services at scale. With technologies like custom Kubernetes controllers and cloud functions, we are able to automate the deployment, enhancement, and maintenance of our Kubernetes platform. The team is continuously looking for ways to make our services more scalable, reliable, and resilient; Learning from past decisions and striving to get better every day.
+
+The day to day
+
+
+Building automated, scalable services and systems to power our growing infrastructure
+Collaborating with an agile team that is passionate about new technologies and delivering high quality and timely code
+Working with monitoring and alerting systems to aid engineering and support efforts
+Constantly look for opportunities to automate and optimize
+Work with Kubernetes solutions across various cloud providers such as Azure, AWS, GCP
+Produce quality, testable and maintainable systems with fast feedback loops
+Build and enhance infrastructure for serving WordPress on thousands of servers
+Be customer inspired and work closely with business partners to incrementally deliver positive outcomes through technology
+Develop CI/CD pipelines for pushing code into production
+
+
+Your expertise and passion
+
+
+2+ years software engineering experience.
+Bachelor's degree in Computer Science or related field or equivalent experience.
+Worked in an agile environment and is passionate about SRE principles.
+Proficient in Python or Go programming.
+Expertise working with Kubernetes and containerisation.
+Experience working with Kubernetes orchestration on hosted cloud service like AWS, GCP or Azure.
+Knowledge of infrastructure as code tools such as Terraform.
+Understanding of the common WordPress technology stack is desirable: Linux, Varnish, Apache/Nginx, MySQL, and PHP.
+Has experience (or interest) in: configuration management systems, monitoring systems and computer network technologies.
+
+
+Perks And Benefits
+
+
+Company Stock Options (Every employee is an owner in the company)
+Health Benefits (100% Paid Employee Medical, Dental, and Vision)
+Pension Scheme with a match
+Life Insurance and Income Protection (100% Paid)
+Supplemental Maternity & Paternity Pay
+Employee Assistance Program
+Generous Vacation Time (Who doesn’t like time off)
+One-time €460 Home Office Stipend
+Company Wellness Days and wellness allowance.
+
+
+At WP Engine, we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. WP Engine is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.
+
+
+Show more ",Ireland,9.0,"Strong alignment with relevant skills in Kubernetes, CI/CD, Python, and cloud experience, plus demonstrated success in previous roles enhances competitive edge.","Cover Letter:
+
+---
+
+Ishaan Aryan  
+Mobile: +353 892474037  
+Email: ishaanaryan98@gmail.com  
+LinkedIn: www.linkedin.com/in/ishaan-aryan
+
+[Date]
+
+Hiring Manager  
+WP Engine  
+
+Dear Hiring Manager,
+
+I am writing to express my enthusiasm for the Software Engineer position at WP Engine, as advertised. With over three years of experience in software engineering and DevOps, coupled with my ongoing MSc in Computer Science at University College Dublin, I am excited about the opportunity to contribute to your team, especially in the areas of scalable cloud infrastructure and automation.
+
+At Optum Global Advantage, I optimized hybrid cloud microservices, achieving a 50% reduction in latency and significantly enhancing the ""Auto tagging"" solution, which decreased processing times by 80%. My hands-on experience with CI/CD pipelines using Jenkins, GitHub Actions, and Terraform, aligns perfectly with WP Engine's emphasis on producing quality, maintainable systems. I have been deeply involved in managing end-to-end deployment pipelines across Azure and AWS, automating build and deployment processes that resonate with your goal of enhancing reliability and scalability.
+
+Furthermore, my proficiency in Kubernetes and container orchestration directly aligns with the core requirements of this role. In my most recent position, I successfully migrated applications to GCP Kubernetes from Red Hat OpenShift, ensuring minimal disruption and improved system resilience, which I understand is a priority at WP Engine. My technical acumen, combined with a collaborative spirit fostered through agile teams, equips me to deliver high-quality code and optimize engineering efforts within your organization.
+
+I appreciate WP Engine's commitment to innovation and its diverse work culture, which I believe is instrumental in driving success. I am eager to leverage my expertise to contribute positively towards your goals and empower the engineering team to deliver advanced and customer-inspired technology solutions.
+
+Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to the innovative projects at WP Engine.
+
+Warm regards,
+
+Ishaan Aryan
+
+--- 
+
+This cover letter articulates key skills and experiences relevant to the job, showcasing enthusiasm and alignment with the company's values and requirements.","Proposed Edits:
+
+1. **Profile Section**: 
+   - Update to highlight experience directly related to Kubernetes, cloud automation, and collaborative team environments. 
+   - Suggested Update: ""Experienced Senior Software Engineer and DevOps professional with 3+ years in Healthcare and Security Industries. Skilled in building scalable and automated solutions using cloud technologies (AWS, Azure, GCP) and container orchestration with Kubernetes, demonstrating a commitment to quality code delivery in agile settings.""
+
+2. **Skills Section**: 
+   - Include specific mention of expertise related to infrastructure as code (Terraform), CI/CD, SRE principles, and relevant technologies in WordPress stack.
+   - Suggested Addition: ""SRE principles, configuration management tools, knowledge of WordPress technology stack (Linux, Apache/Nginx, MySQL, PHP).""
+
+3. **Career Experience**:
+   - In each role, emphasize the outcomes and the technologies that relate to the job description at WP Engine.
+   - Example Update for **Senior Software Engineer, Optum Global Advantage**: ""Directed the migration to GCP Kubernetes, optimizing hybrid cloud microservices that directly enhanced application scalability and reliability—key priorities in WP Engine’s engineering focus.""
+
+4. **Achievements**:
+   - Highlight achievements that showcase contribution to team performance and technology innovations relevant to the specified job.
+   - Suggested Addition: ""Recognized for technical innovation in development of scalable services; achieved 95%+ uptime in deployment pipelines, aligning with WP Engine’s goal of building resilient systems.""
+
+5. **Certifications**:
+   - Emphasize any certifications relevant to the tools and technologies mentioned in the job description, particularly regarding cloud services and DevOps practices.
+   - Suggested Addition: ""Consider obtaining certification in Kubernetes (CKA or CKAD) to demonstrate deep familiarity with container orchestration, essential for this role.""
+
+These edits will refine your CV, ensuring it directly speaks to the requirements and culture at WP Engine while emphasizing your relevant experience and skills."
+Full Stack Developer - Operations Technology,Millennium,,2025-05-04,,https://ie.linkedin.com/jobs/view/full-stack-developer-operations-technology-at-millennium-4052502305?position=5&pageNum=0&refId=yWoY0snexOgJGlSao6d%2FCw%3D%3D&trackingId=u8U%2B4q%2B2P1Cetsuvebcj%2FA%3D%3D,"The Operations Technology team is responsible for supporting operation users on reconciliation, asset servicing and reporting. We manage corporate actions and reconciliation systems, which are integrated with other internal subledger systems across the firm. We are also responsible for all reports going out to our counterparties on daily basis, reporting on our trades and positions. The team is located in NY, Miami and Singapore already and we are looking to expand to Dublin to support EU users. This role requires someone with good communication skills, in addition to programming proficiency, to interact with users directly in the region.
+
+
+
+
+Principal Responsibilities
+
+Hands on development and ownership of software solutions.
+Collaborating with the rest of the team to architect solutions
+Ability to understand and analyze data to find defects and suggests improvements.
+Take ownership of project while managing stakeholders’ expectations
+
+
+
+
+Skills Required
+
+3-5 years' of production level dotnet core development experience
+Programming experience with a strong understanding of OOP with .NET Core, MS SQL Server, Postgres
+Demonstrable experience with streaming patterns: Kafka, micro-services, etc.
+Strong coding skills; writing reliable, readable code and providing code review feedback is second nature
+Experience of working in an Agile environment (preferably Scrum/ Kanban) and associated tools such as JIRA.
+Working knowledge of agile development and dev ops CI/CD practices
+Deep understanding of the software development lifecycle, including integration and testing
+Highly analytical with good problem-solving skills and creativity; able to work independently in a fast-paced environment
+Positive individual with strong communication skills; able to interface well with users and other development teams
+
+
+
+
+Skills Desired
+
+Experience building AWS integrated solutions with resiliency
+Experience building containers and deploying to Kubernetes
+Knowledge of typescript frameworks/libraries such as Angular
+UI design and customization through SCCS such as Bootstrap/Material Design
+Experience with trading or related applications helpful
+Broad understanding of financial services instruments
+Development experience in both windows and Linux environment
+Show more ",Ireland,8.2,"Strong alignment in DotNet Core development experience, cloud infrastructure, and Agile practices; some opportunity gaps in specific tech stack requirements.","Cover Letter:
+
+[Your Name]  
+[Your Address]  
+[City, State, Zip]  
+[Your Phone Number]  
+[Your Email]  
+[Date]  
+
+[Hiring Manager's Name]  
+[Company Name]  
+[Company Address]  
+[City, State, Zip]  
+
+Dear [Hiring Manager's Name],
+
+I am writing to express my interest in the position within the Operations Technology team as advertised. With over three years of experience as a Senior Software Engineer specializing in cloud solutions and DevOps, combined with my current MSc in Computer Science from University College Dublin, I am well-equipped to contribute to your efforts in supporting operations users in reconciliation, asset servicing, and reporting.
+
+In my recent role at Optum Global Advantage, I led the migration of our infrastructure to a hybrid cloud microservice, which improved latency by 50%. This experience has honed my skills in .NET Core and Agile methodologies while directly aligning with your needs for hands-on development and project ownership. In addition, my proficiency in various cloud platforms, particularly AWS and Azure, will allow me to adapt to the corporate actions and reconciliation systems that are vital for your team.
+
+Moreover, my experience with CI/CD pipelines and container orchestration using Docker and Kubernetes, as well as development in both Windows and Linux environments, positions me as a competitive candidate. I also have a solid understanding of the software development lifecycle, enabling me to effectively analyze data to find defects and suggest improvements, which aligns perfectly with the responsibilities outlined in your job description.
+
+Communication has been a cornerstone of my successful collaborations, as evidenced by my role in mentoring interns and leading cross-departmental teams to achieve shared goals. I believe my technical proficiency and interpersonal skills would make me a positive addition to your diverse team, helping you expand your operations to Dublin and support EU users effectively.
+
+I am excited about the opportunity to bring my background in software development and cloud solutions to your esteemed firm. Thank you for considering my application. I look forward to the possibility of discussing how I can contribute to your Operations Technology team.
+
+Warm regards,
+
+[Your Name]  
+[Your LinkedIn URL] (if applicable)  
+
+Feel free to adjust any personal details, such as contact information, dates, and your name, as needed.","Proposed Edits:
+
+1. **Profile Section**: Update the profile to emphasize experience in **data analysis and defect identification**, as these are key responsibilities in the job description.  
+   - Suggested Edit: ""I am an experienced Senior Software Engineer and DevOps professional with 3+ years specializing in cloud infrastructure, software development, and data analysis in Healthcare and Security Industries.""
+
+2. **Skills Section**: Add more specific skills related to the job requirements, such as **Microservices architecture**, and **streaming technologies like Kafka**.  
+   - Suggested Edit: Add ""Microservices Architecture"" and ""Streaming Data Technologies (Kafka)"" under the relevant areas.
+
+3. **Career Experience**: When detailing your responsibilities in previous roles, specifically highlight any direct **user interactions and stakeholder management** experiences.  
+   - Suggested Edit: In job descriptions, add phrases like ""Collaborated directly with users to gather feedback"" or ""Managed stakeholder expectations during project development.""
+
+4. **Projects**: Emphasize ownership in projects that included user feedback and improvements.  
+   - Suggested Edit: Rephrase achievements to include aspects of **ownership**, e.g., ""Took ownership of project to enhance the 'Auto Tagging' solution based on user feedback, resulting in a 80% reduction in document completion time.""
+
+5. **Agile and CI/CD**: Highlight your experience with **Agile methodologies** and **CI/CD tools** more prominently.  
+   - Suggested Edit: Create a subheading under **Skills** for ""Agile Methodologies (Scrum, Kanban)"" and ""CI/CD Pipeline Management"" to better fit the job's Agile environment requirement.
+
+6. **Communication Skills**: Explicitly mention examples of how **strong communication skills** were utilized in past roles, particularly in environments requiring user interaction and collaboration across teams.  
+   - Suggested Edit: Add a bullet point in the experience section stating, ""Facilitated communication between engineering and business teams to ensure successful project delivery based on user requirements.""
+
+Enhancing these sections can align your CV more closely with the job description's emphasis on user interaction, collaborative project ownership, and technical skills in key areas."
